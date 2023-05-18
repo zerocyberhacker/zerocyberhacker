@@ -1,18 +1,6 @@
-# Awesome Free ChatGPT
 
-[中文](README.md)
 
-🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites, continuously updated.
-
-The websites listed here are from the internet, please do not enter any personal sensitive information on these websites.
-
-Of course, we greatly appreciate their excellent work. If you find it useful, you can consider donating or tipping them.
-
-🌈 Welcome Contributions
-
-Feel free to submit issues and PRs to add new websites or report website failures. If you find this project useful, don't forget to star ⭐. Your support is my motivation to move forward.
-
-## 📖 List
+## 📖 GPT-List
 
 > Note
 >
