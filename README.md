@@ -9,5 +9,3 @@
 - [ 🆓 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
 - [ 🆓 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
-
-- [ 🔐🔔 ] [https://fastgpt.app](https://fastgpt.app/) from <https://github.com/yuezk/chatgpt-mirror>
