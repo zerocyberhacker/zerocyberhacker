@@ -1,6 +1,6 @@
 
 
-## 📖 GPT-List
+## 📖 Useful GPT-List for me
 
 ### Similar to the official website style
 
